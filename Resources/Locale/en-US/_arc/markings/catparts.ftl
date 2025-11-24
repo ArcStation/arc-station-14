@@ -1,0 +1,13 @@
+marking-CatEarsBasic = Cat ears (Basic)
+marking-CatEarsCurled = Cat ears (Curled)
+marking-CatEarsDroopy = Cat ears (Droopy)
+marking-CatEarsFuzzy = Cat ears (Fuzzy)
+marking-CatEarsStubby = Cat ears (Stubby)
+marking-CatEarsTall = Cat ears (Tall)
+marking-CatEarsTorn = Cat ears (Torn)
+marking-CatEarsWide = Cat ears (Wide)
+
+marking-CatTailBasic = Cat tail (Basic)
+marking-CatTailBasicWithBow = Cat tail (Bow)
+marking-CatTailBasicWithBell = Cat tail (Bell)
+marking-CatTailBasicWithBowAndBell = Cat tail (Bow, Bell)

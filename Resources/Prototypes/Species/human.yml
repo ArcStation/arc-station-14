@@ -40,9 +40,11 @@
 - type: markingPoints
   id: MobHumanMarkingLimits
   points:
-    Special: # the cat ear joke
-      points: 1 # ArcStation - edit. CatEats
-      required: false
+    # ArcStation - start. CatPort
+    # Special: the cat ear joke
+    #   points: 1 # ArcStation - edit. CatEats
+    #   required: false
+    # ArcStation - end. CatPort
     Hair:
       points: 1
       required: false
