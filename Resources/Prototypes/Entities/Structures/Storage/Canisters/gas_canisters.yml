@@ -10,7 +10,7 @@
     - type: Transform
       noRot: true
     - type: Sprite
-      sprite: Structures/Storage/canister.rsi
+      sprite: _Arc/Structures/Storage/canister.rsi # ArcStation - edit. Gas canister resprite
       noRot: true
       layers:
         - state: grey
@@ -638,7 +638,7 @@
       damageModifierSet: Metallic
     - type: InteractionOutline
     - type: Sprite
-      sprite: Structures/Storage/canister.rsi
+      sprite: _Arc/Structures/Storage/canister.rsi # ArcStation - edit. Gas canister resprite
       state: grey-1
     - type: Physics
       bodyType: Dynamic
