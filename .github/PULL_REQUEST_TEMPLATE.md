@@ -1,32 +1,41 @@
 <!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
+<!-- Если вы считаете, что вам не нужно ничего писать в некоторой категории - удалите её. -->
+<!-- Пример: Медиа категория, когда изменения только внутри кода. -->
 
-## About the PR
-<!-- What did you change? -->
+## О ПРе
+<!-- Что вы изменили? -->
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+## Почему / Баланс
+<!-- Объясните, как это повлияет на баланс игры или зачем нужны эти изменения. Желательно предоставить ссылки на обсуждение в дискорде/гите -->
 
-## Technical details
-<!-- Summary of code changes for easier review. -->
+## Технические детали
+<!-- Краткое изложение изменений в коде для простоты проверки. -->
 
-## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
-Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
+## Медиа
+<!-- Добавьте изображения/видео, если ваш ПР меняет контент игры (одежда, предметы, особенности и т.д.).
+Можно пропустить, если ваш ПР не меняет ничего выше -->
 
-## Requirements
-<!-- Confirm the following by placing an X in the brackets [X]: -->
-- [ ] I have read and am following the [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
-- [ ] I have added media to this PR or it does not require an in-game showcase.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
+## Перевод
+<!-- Опишите изменения перевода, если ваш ПР:
+- Переводит что-либо из locale/ru-RU
+- Добавляет что-либо в locale/en-EN (Вместе с переводом) -->
 
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them.
-This will be posted in #codebase-changes. -->
+## Обязательные проверки
+<!-- Подтвердите следующие чеки, изменив их на [X]: -->
+- [ ] Я прочитал и следую [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+- [ ] Я добавил медиа или этот ПР не требуется в этом.
+- [ ] Я следовал гайду на перевод в нашем дискорде или в этом ПРе нечего переводить.
+- [ ] Я убедился в том, что все изменения размещены в соответствующих папках кодбазы или что это не требуется.
+<!-- Вы должны понимать, что несоблюдение вышеуказанных требований может привести к закрытию вашего PR по усмотрению мейнтейнеров. -->
+
+## Критические изменения
+<!-- Перечислите все критические, включая namespaces, изменения публичных классов/методов/полей, переименование прототипов, и предоставьте инструкции по их исправлению, если ПР не совершает никаких изменений по совместимости или исправлений -->
 
 **Changelog**
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog. -->
+<!-- Добавьте запись в ченджлог, чтобы игроки были в курсе новых изменений, которые могут повлиять на игровой процесс.
+Обязательно прочтите инструкции и вынесите этот шаблон изменений из комментариев, чтобы он отображался.
+Журнал изменений должен иметь символ :cl:, чтобы бот распознавал изменения и добавлял их в ченджлог. 
+Не бойтесь, некоторые категории изменений можно пропускать. Удалите её если она не требуется-->
 <!--
 :cl:
 - add: Added fun!
