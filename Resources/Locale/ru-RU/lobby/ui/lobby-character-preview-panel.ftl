@@ -1,0 +1,3 @@
+lobby-character-preview-panel-header = Персонаж
+lobby-character-preview-panel-character-setup-button = Изменить
+lobby-character-preview-panel-unloaded-preferences-label = Настройки ваших персонажей еще не загружены, подождите...

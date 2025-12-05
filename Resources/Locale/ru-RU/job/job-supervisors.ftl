@@ -1,0 +1,16 @@
+job-supervisors-centcom = ЦК
+job-supervisors-captain = Капитану
+job-supervisors-hop = Главе Персонала
+job-supervisors-hos = Главе Службы Безопасности
+job-supervisors-ce = Старшему Инженеру
+job-supervisors-cmo = Старшему Медицинского Отдела
+job-supervisors-rd = Научному Руководителю
+job-supervisors-qm = Квартирмейстеру
+job-supervisors-service = шеф повару, ботанику, бармену и главе персонала
+job-supervisors-engineering = инженерам, атмосферным техникам и Старшему Инженеру
+job-supervisors-medicine = докторам, парамедикам, химикам и Старшему Медицинского Отдела
+job-supervisors-security = офицерам СБ, смотрителю и Главе Службы Безопасности
+job-supervisors-science = учёным и Научному Руководителю
+job-supervisors-hire = нанимателям
+job-supervisors-everyone = всем
+job-supervisors-nobody = никому

@@ -1,0 +1,10 @@
+﻿department-Cargo-description = Выполняйте задания, зарабатывайте деньги и заказывайте полезные припасы для экипажа.
+department-Civilian-description = Исполняйте мелкую рутинную работу для процветания станции.
+department-Command-description = Управляйте экипажем для поддержания эффективности.
+department-CentralCommand-description = Управляйте экипажем для поддержания эффективности.
+department-Engineering-description = Поддерживайте питание и работоспособность станции.
+department-Medical-description = Поддерживайте здоровье экипажа.
+department-Security-description = Поддерживайте спокойство на станции.
+department-Science-description = Исследуйте артефакты и аномалии для изучения новых технологий.
+department-Silicon-description = Следуй своим законам и служи экипажу.
+department-Specific-description = Специальные должности, ограниченные по станциям.
